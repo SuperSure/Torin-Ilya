@@ -1,7 +1,7 @@
-This account was previously made for HTML lessons
-Here's something about me:
-Gender: Default settings
-bananas
+-This account was previously made for HTML lessons
+-Here's something about me:
+-Gender: Default settings
+-bananas
 
        ___________
        |
