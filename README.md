@@ -1,7 +1,7 @@
-- I'm learning HTML. 🔢
-- I like the color yellow! 💛
-- Not always great 🌦
-- alright that's all i guess
+This account was previously made for HTML lessons
+Here's something about me:
+Gender: Default settings
+bananas
 
        ___________
        |
